@@ -1,0 +1,6 @@
+csvDir: "../generated"
+dirNesting: 2
+dirsInDir: 1
+filesInDir: 5
+stringsInFile: 12000
+measurements: 3
